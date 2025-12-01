@@ -1,3 +1,8 @@
+---
+applyTo: "**/**"
+description: "React frontend standards and guidelines"
+---
+
 # Frontend Guidelines
 
 ## Guiding Principles
