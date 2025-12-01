@@ -1,0 +1,9 @@
+name: frontend-standards
+version: 1.0.0
+description: Frontend engineering standards and best practices for spec2cloud projects
+
+author: EmeaAppGbb
+license: MIT
+
+dependencies:
+  apm: []
